@@ -1,0 +1,202 @@
+================================================================================
+UPWORK PROPOSAL TEMPLATES - QUICK REFERENCE FOR TEAM
+================================================================================
+
+BEFORE USING THESE TEMPLATES:
+1. Read the job post completely (minimum 2 minutes)
+2. Find at least ONE specific detail to mention
+3. Fill in ALL bracketed sections [like this]
+4. Never send template as is
+5. Keep final proposal under 200 words
+6. Read aloud once to check it sounds natural
+
+================================================================================
+DATA ANNOTATION JOBS
+================================================================================
+
+TEMPLATE A:
+-----------
+I noticed you need help with [SPECIFIC TASK FROM POST]. I have annotated similar datasets before with 98% accuracy and understand how important clean labels are for your project.
+
+I recently completed a similar annotation project where I [BRIEF DESCRIPTION OF PAST WORK OR "processed X number of items"]. I follow careful quality checks before submitting any batch.
+
+Quick question: do you have annotation guidelines ready or should I follow standard practices?
+
+I am available to start today. Would a small test batch work so you can check my quality first?
+
+[YOUR NAME]
+
+
+TEMPLATE B:
+-----------
+[MAIN TASK FROM JOB POST] is exactly what I have been working on recently. I understand the importance of consistency and accuracy in annotation work.
+
+I have experience with [SIMILAR TYPE OF ANNOTATION OR TOOL THEY MENTIONED]. My process includes double checking every entry before final submission.
+
+What format do you need for the final output?
+
+Can we start with a small sample? That way you can verify my quality before committing to the full project.
+
+[YOUR NAME]
+
+
+================================================================================
+VIRTUAL ASSISTANT JOBS
+================================================================================
+
+TEMPLATE A:
+-----------
+You need someone reliable for [MAIN TASKS MENTIONED]. That is exactly what I do. I respond fast, follow instructions carefully, and handle tasks without needing constant supervision.
+
+I have supported similar clients with [RELEVANT TASKS: calendar management, email handling, etc.]. They appreciate that I just get things done without back and forth.
+
+What timezone are you in? I want to make sure my availability aligns with yours.
+
+I can start immediately. Let me know if you have any questions about my approach.
+
+[YOUR NAME]
+
+
+TEMPLATE B:
+-----------
+I understand you are looking for help with [TASKS FROM POST]. I have experience handling these kinds of responsibilities and my clients usually say I save them several hours every week.
+
+My approach is simple: I take ownership of tasks, communicate clearly, and deliver on time. No excuses, no delays.
+
+Do you prefer email, chat, or calls for daily communication?
+
+Ready to jump in whenever you are. A quick intro call works if you prefer.
+
+[YOUR NAME]
+
+
+================================================================================
+WEB RESEARCH / LIST BUILDING JOBS
+================================================================================
+
+TEMPLATE A:
+-----------
+You need [NUMBER] verified [TYPE OF DATA: leads, contacts, companies]. I have built similar lists before and I verify every entry manually before delivering.
+
+I recently completed a project where I [DESCRIBE SIMILAR WORK: built a list of 500 B2B contacts with emails and phone numbers]. The client got clean, usable data.
+
+What specific fields do you need for each entry? Name, email, phone, company, title, or anything else?
+
+I can start with a sample batch of [10-20] entries so you can check the quality. Does that work?
+
+[YOUR NAME]
+
+
+TEMPLATE B:
+-----------
+Finding accurate [TYPE OF DATA] requires systematic research. I know the sources and methods that produce reliable results.
+
+I have done this type of research before. My lists come with verified contact information, not just scraped data that bounces.
+
+Do you have preferred sources for this data or should I use my standard methods?
+
+I am ready to start today and can deliver the first batch within [REALISTIC TIMEFRAME].
+
+[YOUR NAME]
+
+
+================================================================================
+DATA ENTRY JOBS
+================================================================================
+
+TEMPLATE A:
+-----------
+I can handle your [SPECIFIC TASK: moving data from X to Y, entering X records, etc.] accurately and quickly. I type at 70 WPM and double check everything before submitting.
+
+I have done similar data entry projects before. [BRIEF MENTION OF PAST WORK OR: I understand the importance of accuracy and proper formatting].
+
+What is the source format and where should the data be entered?
+
+I am available to start within a few hours. Would a small test batch work first?
+
+[YOUR NAME]
+
+
+TEMPLATE B:
+-----------
+[MAIN TASK] with zero errors is what I deliver. I have experience with similar projects and understand that accuracy matters more than speed.
+
+My process is simple: I work carefully, double check my entries, and deliver on time. No sloppy work.
+
+Are there specific formatting rules I should follow?
+
+I can begin today and complete [REALISTIC ESTIMATE] per day. Let me know if you want a trial batch first.
+
+[YOUR NAME]
+
+
+================================================================================
+UNIVERSAL CLOSINGS (use any of these)
+================================================================================
+
+- Can we start with a small test batch? That way you can check my quality before committing.
+- I am available to start today. Would a sample task work as a first step?
+- Let me know if you have questions. Happy to jump on a quick call or discuss here.
+- I can begin within a few hours. A short sample works if you want to test first.
+- Ready to start when you are. Open to a brief call if that helps.
+
+
+================================================================================
+SMART QUESTIONS BY JOB TYPE (add one to your proposal)
+================================================================================
+
+DATA ANNOTATION:
+- Do you have annotation guidelines ready or should I follow standard practices?
+- What format do you need for the final output?
+- Is there a specific tool you want me to use?
+- What is the expected accuracy threshold?
+
+VIRTUAL ASSISTANT:
+- What timezone are you in?
+- Do you prefer email, chat, or calls?
+- What tools or software are you currently using?
+- What are your expected response times?
+
+WEB RESEARCH:
+- What specific fields do you need for each entry?
+- Do you have preferred sources?
+- How should I handle entries with missing information?
+- Do you need verification notes?
+
+DATA ENTRY:
+- What is the source format?
+- Are there specific formatting rules?
+- What is the expected daily volume?
+- Should I flag unclear entries or use my judgment?
+
+
+================================================================================
+THINGS TO NEVER SAY
+================================================================================
+
+- "Dear Sir/Madam" or "Dear Hiring Manager"
+- "I hope this message finds you well"
+- "I am a hardworking professional"
+- "I am the best candidate for this job"
+- "I am highly motivated and passionate"
+- "Please give me a chance"
+- Any form of begging or desperation
+- Generic phrases that could apply to any job
+
+
+================================================================================
+CHECKLIST BEFORE SENDING
+================================================================================
+
+[ ] First line mentions their specific project, not your skills
+[ ] Contains at least one question about their job
+[ ] Under 200 words total
+[ ] Offers sample or test work
+[ ] No spelling errors
+[ ] No contractions (use "I have" not "I've")
+[ ] No hyphens or dashes
+[ ] Sounds natural when read aloud
+[ ] Specific to this job, not copy paste generic
+
+
+================================================================================
